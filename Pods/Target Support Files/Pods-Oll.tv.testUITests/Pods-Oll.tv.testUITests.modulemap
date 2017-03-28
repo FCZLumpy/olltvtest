@@ -1,0 +1,6 @@
+framework module Pods_Oll_tv_testUITests {
+  umbrella header "Pods-Oll.tv.testUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
